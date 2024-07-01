@@ -1,0 +1,14 @@
+.outer-div {
+    height: 400px;
+    width: 100%;
+    border: 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.outer-div div {
+    height: 250px;
+    width: 250px;
+    border: 4px dotted red;
+}
